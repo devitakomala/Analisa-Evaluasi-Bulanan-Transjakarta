@@ -27,3 +27,4 @@ Namun, seperti halnya sistem transportasi publik lainnya, Transjakarta juga meng
    Dalam Analisa ini akan ada:
    - Jupyter Notebook
    - Tableau Story
+   - Raw data Transjakarta

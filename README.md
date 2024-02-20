@@ -1,3 +1,5 @@
+**OPTIMASI LAYANAN TRANSJAKARTA**
+
 Transjakarta adalah sistem transportasi yang berbasis Bus Rapid Transit (BRT) dan non-BRT yang telah beroperasi pada tahun 2004 untuk menjawab tantangan kemacetan di ibu kota Indonesia.
 
 Seiring dengan berjalannya waktu, Transjakarta telah mengalami perkembangan yang signifikan. Awalnya hanya beroperasi di wilayah Jakarta, kini cakupannya telah meluas hingga ke wilayah Bodetabek (Bogor, Depok, Tangerang, dan Bekasi) [source : Peta Integrasi TJ](https://transjakarta.co.id/peta-rute/). Ini memungkinkan masyarakat tidak hanya bergerak di dalam kota Jakarta, tetapi juga antar-kota dengan lebih mudah.
@@ -24,7 +26,7 @@ Namun, seperti halnya sistem transportasi publik lainnya, Transjakarta juga meng
 
     Mengenali jam-jam peak hour dan koridor yang paling populer. Informasi ini dapat digunakan untuk merancang strategi pemasaran, promosi, dan program loyalitas guna meningkatkan pendapatan Transjakarta.
 
-   Dalam Analisa ini akan ada:
+**Dalam Analisa ini akan ada:**
    - Jupyter Notebook
    - Tableau Story
    - Raw data Transjakarta
